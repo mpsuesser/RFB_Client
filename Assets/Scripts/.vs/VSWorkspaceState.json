@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CooldownTrackers",
+    "\\HomeScreen",
+    "\\Menus",
+    "\\Networking",
+    "\\Preload",
+    "\\Preload\\Audio"
+  ],
+  "SelectedNode": "\\Networking\\ClientHandle.cs",
+  "PreviewInSolutionExplorer": false
+}
